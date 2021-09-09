@@ -1,6 +1,6 @@
 Title: To Kill a Mockingbird
 Author: Harper Lee
-Genre: Southern Gothic/Novel
+Genre: Novel
 Price: 10.99
 -----
 Title: Fellowship of the Ring

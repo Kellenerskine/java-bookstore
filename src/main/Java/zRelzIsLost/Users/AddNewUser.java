@@ -115,7 +115,7 @@ public class AddNewUser {
             myWriter.write("Last name: " + lastName + "\n");
             myWriter.write("Password: " + pass1 + "\n");
 
-            if (c = true) { //paypal
+            if (c) { //paypal
                 myWriter.write("PayPal info: " + paypalEmail);
             }else{ //credit card
                 myWriter.write("Credit info: " + "Name on card: " + cardholderName + ", Credit num: " + creditNum + ", Expiry date: " + expiryMonth + "/" + expiryYear);
